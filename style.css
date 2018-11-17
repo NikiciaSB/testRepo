@@ -1,0 +1,147 @@
+*{
+    vertical-align: top;
+    box-sizing: border-box;
+}
+#wrapper{
+    background-color: darkred;
+    width:980px;
+    display: inline-block;
+
+}
+#header{
+    background-image: linear-gradient(to right, #800000,#CD5C5C, pink);
+    width: 979.5px;
+    display: inline-block;
+}
+.top1{
+    min-height: 15px;
+    width: 550px;
+    display: inline-block;
+    padding: 10px;
+}
+.top2{
+    min-height: 15px;
+    width: 400px;
+    display: inline-block;
+    padding: 10px;
+}
+.girl{
+    display: inline-block;
+    width: 385px;
+    min-height: 200px;
+    margin: 10px 15px 15px 75px;
+}
+.about{
+    background-color:pink;
+    display: inline-block;
+    width: 385px;
+    min-height: 200px;
+    margin: 10px 15px 15px 75px;
+    text-decoration-color: whitesmoke;
+  
+    }
+.subcontents{
+    background-color: pink;
+    width: 300px;
+    display: inline-block;
+}
+ .grey{
+    min-height: 15px;
+    width: 385px;
+    display: inline-block;
+    padding: 30px;
+    background-image: linear-gradient(to right, #800000,#CD5C5C, pink);
+    color: whitesmoke;
+    
+ }
+ .gray{
+    min-height: 15px;
+    width: 299px;
+    display: inline-block;
+    padding: 10px;
+    margin-right: 0px;
+    background-image: linear-gradient(to right, #800000,#CD5C5C, pink);
+    color: whitesmoke;
+ }
+ 
+ .sub{
+    display: inline-block;
+    width: 300px;
+    margin: 1px
+}
+.subcontents{
+    display: inline-block;
+    width: 300px;
+    min-height: 120px;
+    margin: 12px;
+}
+.tech{
+    width: 45px;
+    min-height: 10px; 
+    display: inline-block;
+    margin: 5px 5px 5px 5px;
+   
+}
+#footer{
+    background-image: linear-gradient(to right, #800000,#CD5C5C, pink);
+    width: 979.5px;
+    display: inline-block;
+    text-align: center;
+}
+.social{
+    display: inline;
+    
+}
+.soctech{
+    width: 15px;
+    min-height: 15px; 
+    display: inline-block;
+}
+.text{
+    margin: 10px;
+}
+.button{
+    text-align: center;
+    display: inline-block;
+    margin-left: 73px;
+    width: 150px;
+    border-radius: 20px;
+    padding: 2px;
+   
+}
+
+#contents .gray{
+    height: px;
+}
+
+#contents .button .La{
+    background-color: royalblue;
+    text-align: center;
+    display: inline-block;
+    margin-left: -18px;
+    width: 100x;
+    border-radius: 5px;
+    padding: 6px;
+    color: white;
+}
+
+#contents .button .Fam{
+    background-color:royalblue;
+    text-align: center;
+    display: inline-block;
+    margin-left: 5px;
+    width: 100x;
+    border-radius: 5px;
+    padding: 6px;
+    color: white;
+}
+#contents .button .five{
+    background-color:royalblue;
+    text-align: center;
+    display: inline-block;
+    margin-left: 3px;
+    width: 100x;
+    border-radius: 9px;
+    padding: 6px;
+    color: white;
+}
