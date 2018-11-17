@@ -41,7 +41,7 @@
   
     }
 .subcontents{
-    background-color: rgb(237, 192, 255);
+    background-color: pink;
     width: 300px;
     display: inline-block;
 }
@@ -50,7 +50,7 @@
     width: 385px;
     display: inline-block;
     padding: 30px;
-    background-image: linear-gradient(to right, #ca0bf0,#CD5C5C, pink);
+    background-image: linear-gradient(to right, #800000,#CD5C5C, pink);
     color: whitesmoke;
     
  }
@@ -60,7 +60,7 @@
     display: inline-block;
     padding: 10px;
     margin-right: 0px;
-    background-image: linear-gradient(to right, #ca0bf0,#CD5C5C, pink);
+    background-image: linear-gradient(to right, #800000,#CD5C5C, pink);
     color: whitesmoke;
  }
  
@@ -83,7 +83,7 @@
    
 }
 #footer{
-    background-image: linear-gradient(to right, #ca0bf0,#CD5C5C, pink);
+    background-image: linear-gradient(to right, #800000,#CD5C5C, pink);
     width: 979.5px;
     display: inline-block;
     text-align: center;
@@ -115,7 +115,7 @@
 }
 
 #contents .button .La{
-    background-color: #ca0bf0;
+    background-color: royalblue;
     text-align: center;
     display: inline-block;
     margin-left: -18px;
@@ -126,7 +126,7 @@
 }
 
 #contents .button .Fam{
-    background-color:#ca0bf0;
+    background-color:royalblue;
     text-align: center;
     display: inline-block;
     margin-left: 5px;
@@ -136,7 +136,7 @@
     color: white;
 }
 #contents .button .five{
-    background-color:#ca0bf0;
+    background-color:royalblue;
     text-align: center;
     display: inline-block;
     margin-left: 3px;
